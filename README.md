@@ -5,8 +5,9 @@ Codes for <Do You Have the Right Scissors? Tailoring Pre-trained Language Models
 
 ### Dependencies
 - `python 3.7`
-- `tensorflow 1.13` Please download GPT-2 small (117M) and put it under `./model` 
+- `tensorflow 1.13` 
 - `toposort`
+- Please download GPT-2 small (117M) and put it under `./model`
 
 ### Datasets
 All datasets used in our paper are attached here. Please don't forget to cite corresponding papers if you are going to use them.
