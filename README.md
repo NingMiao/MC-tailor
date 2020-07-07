@@ -1,4 +1,4 @@
-#MC-tailor
+# MC-tailor
 Codes for <Do You Have the Right Scissors? Tailoring Pre-trained Language Models via Monte-Carlo Methods>
 ---
 ###Introduction
